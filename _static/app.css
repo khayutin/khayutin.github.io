@@ -6,11 +6,7 @@
 html {
   font-size: 16px;
   line-height: 1.6;
-  font-family: Georgia, Cambria, "Times New Roman", Times, "Yu Mincho", "YuMincho", "Hiragino Mincho ProN", serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-}
-
-html[lang="ja"] {
-  line-height: 1.9;
+  font-family: -apple-system, 'avenir next', avenir, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
 /* breakpoint-not-small */
@@ -167,4 +163,21 @@ figcaption {
 .fb_iframe_widget.fb-post,
 .fb_iframe_widget.fb-post * {
   max-width: 100% !important;
+}
+
+#left {
+  left:-8.33%;
+  text-align: left;
+  float: left;
+  width:50%;
+  z-index:-10;
+}
+
+#right {
+  left:31.25%;
+  top: 75px;
+  float: right;
+  text-align: left;
+  z-index:-10;
+  width:50%;
 }

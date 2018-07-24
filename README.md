@@ -12,7 +12,7 @@ _Ilya Khayutin_, 2018, Submitted
 
 + Joint Equidistribution of CM Points,
 _Ilya Khayutin_, 2017, Submitted,
-Site preprint,
+[Site preprint](joint_equidistribution.pdf),
 [arxiv](https://arxiv.org/abs/1710.04557)
 
 + Arithmetic of Double Torus Quotients and the Distribution of Periodic Torus Orbits,

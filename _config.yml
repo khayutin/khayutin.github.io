@@ -6,7 +6,7 @@ title: Ilya Khayutin, Mathematics
 
 # Where the page will be deployed.
 # If it's https://foo.com/bar, just write "https://foo.com"
-url: "https://web.math.princeton.edu/~khayutin/"
+url: "https://khayutin.github.io"
 
 # If you're deployging to a subdirectory (https://foo.com/bar/)
 # Then write "/bar/". Otherwise, remove this line.
@@ -41,7 +41,7 @@ brand_color: "amber-400"
 permalink: posts/:title/
 
 # "UA-NNNNNNNN-N"
-google_analytics: ""
+google_analytics: "UA-122875968-1"
 
 # Language. For example, if you write in Japanese, use "ja"
 lang: "en"

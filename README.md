@@ -8,12 +8,13 @@ I work in number theory and homogeneous dynamics.
 
 ## Papers
 + Equidistribution on Kuga-Sato Varieties of Torsion Points on CM Elliptic Curves,
-_Ilya Khayutin_, 2018, Submitted
+_Ilya Khayutin_, 2018, Submitted,
+[arxiv](https://arxiv.org/abs/1807.08817)  
 
 + Joint Equidistribution of CM Points,
 _Ilya Khayutin_, 2017, Submitted,
 [Site preprint](joint_equidistribution.pdf),
-[arxiv](https://arxiv.org/abs/1710.04557)
+[arxiv](https://arxiv.org/abs/1710.04557)  
 
 + Arithmetic of Double Torus Quotients and the Distribution of Periodic Torus Orbits,
 _Ilya Khayutin_, 2015, Submitted,

@@ -141,10 +141,11 @@ figure {
   margin: 1em 0;
 }
 
+/*
 figure img, p img {
   margin: 0 auto;
   display: block;
-}
+}*/
 
 figcaption {
   text-align: center;

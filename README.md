@@ -1,15 +1,18 @@
+{::options parse_block_html="true" /}
 ![](image.jpg)
 
 ## About
 I am a Veblen Research Instructor at Princeton University and the Institute for Advanced Study since 2016. Before that I was a PhD student at the Einstein Institute of Mathematics at the Hebrew University of Jerusalem under the guidance of Prof. Elon Lindenstrauss.
-
 
 ## Research​
 I work in number theory and homogeneous dynamics. My research revolves around equidistribution of arithmetic objects. This is a broad subject that requires a synthesis of ideas from different fields.  
 
 In a pursuit to
 understand equidistribution questions I am studying measure rigidity, arithmetic invariant theory, relative trace formulae and their geometric expansion, sieve methods in multiplicative number theory, subconvexity and
-large deviations estimates for Markov processes.
+large deviations estimates.
+
+## Teaching
+In Fall 2018 I am teaching an [advanced class](https://registrar.princeton.edu/course-offerings/course_details.xml?courseid=013461&term=1192) about Ratner's theorems and their applications in number theory.
 
 ## Papers
 + Equidistribution on Kuga-Sato Varieties of Torsion Points on CM Elliptic Curves,
@@ -20,9 +23,9 @@ _Ilya Khayutin_, 2018, Submitted,
 _Ilya Khayutin_, 2017, Submitted,
 [Site preprint](joint_equidistribution.pdf),
 [arxiv](https://arxiv.org/abs/1710.04557)  
-:movie_camera:
-[Short video](https://video.ias.edu/postdoc/2017/0929-IlyaKhayutin)
-[Long video](https://video.ias.edu/file/45736)  
+:movie_camera: Videos:
+[15min talk](https://video.ias.edu/postdoc/2017/0929-IlyaKhayutin),
+[1hr talk](https://video.ias.edu/file/45736)  
 
 + Arithmetic of Double Torus Quotients and the Distribution of Periodic Torus Orbits,
 _Ilya Khayutin_, 2015, Submitted,
@@ -40,7 +43,6 @@ _Ilya Khayutin_, 2007, Master's Thesis,
 ## Contact
 email: last name@princeton.edu
 
-{::options parse_block_html="true" /}
 <div id="left">
   Fine Hall 509,  
   Princeton University.  
@@ -50,7 +52,7 @@ email: last name@princeton.edu
 
 <div id="right">
   <div class="column"></div>
-  Simonyi Hall 112,  
+  Fuld Hall 118,  
   Institute for Advanced Study.  
   1 Einstein Drive,  
   Princeton, NJ 08540

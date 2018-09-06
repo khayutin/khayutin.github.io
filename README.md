@@ -16,7 +16,7 @@ In Fall 2018 I am teaching an [advanced class](https://registrar.princeton.edu/c
 
 ## Papers
 + Closed Geodesics on Products of Modular Curves,
-_Ilya Khahyutin_, 2018, In preparation,
+_Ilya Khayutin_, 2018, In preparation,
 [tentative abstract](joint_geodesics_abstract.pdf)
 
 

@@ -15,6 +15,11 @@ large deviations estimates.
 In Fall 2018 I am teaching an [advanced class](https://registrar.princeton.edu/course-offerings/course_details.xml?courseid=013461&term=1192) about Ratner's theorems and their applications in number theory.
 
 ## Papers
++ Closed Geodesics on Products of Modular Curves,
+_Ilya Khahyutin_, 2018, In preparation,
+[tentative abstract](joint_geodesics_abstract.pdf)
+
+
 + Equidistribution on Kuga-Sato Varieties of Torsion Points on CM Elliptic Curves,
 _Ilya Khayutin_, 2018, Submitted,
 [arxiv](https://arxiv.org/abs/1807.08817)  

@@ -19,7 +19,6 @@ In Fall 2018 I am teaching an [advanced class](https://registrar.princeton.edu/c
 _Ilya Khayutin_, 2018, In preparation,
 [tentative abstract](joint_geodesics_abstract.pdf)
 
-
 + Equidistribution on Kuga-Sato Varieties of Torsion Points on CM Elliptic Curves,
 _Ilya Khayutin_, 2018, Submitted,
 [arxiv](https://arxiv.org/abs/1807.08817)  
@@ -33,12 +32,12 @@ _Ilya Khayutin_, 2017, Submitted,
 [1hr talk](https://video.ias.edu/file/45736)  
 
 + Arithmetic of Double Torus Quotients and the Distribution of Periodic Torus Orbits,
-_Ilya Khayutin_, 2015, Submitted,
+_Ilya Khayutin_, 2015, :page_with_curl: Accepted at Duke Math J. pending final revision,
 [arxiv](https://arxiv.org/abs/1510.08481)  
 
 + Large Deviations and Effective Equidistribution,
 _Ilya Khayutin_, 2015,
-[Int. Math. Res. Not.](https://academic.oup.com/imrn/article/2017/10/3050/3061033),
+:page_with_curl: [Int. Math. Res. Not.](https://academic.oup.com/imrn/article/2017/10/3050/3061033),
 [arxiv](https://arxiv.org/abs/1511.03452)
 
 + Communication with Unobservable Constraints,

@@ -24,7 +24,7 @@ _Ilya Khayutin_, 2018, Submitted,
 [arxiv](https://arxiv.org/abs/1807.08817)  
 
 + Joint Equidistribution of CM Points,
-_Ilya Khayutin_, 2017, Submitted,
+_Ilya Khayutin_, 2017, :page_with_curl: Accepted at Annals of Math.,
 [Site preprint](joint_equidistribution.pdf),
 [arxiv](https://arxiv.org/abs/1710.04557)  
 :movie_camera: Videos:
@@ -32,7 +32,7 @@ _Ilya Khayutin_, 2017, Submitted,
 [1hr talk](https://video.ias.edu/file/45736)  
 
 + Arithmetic of Double Torus Quotients and the Distribution of Periodic Torus Orbits,
-_Ilya Khayutin_, 2015, :page_with_curl: Accepted at Duke Math J. pending final revision,
+_Ilya Khayutin_, 2015, :page_with_curl: Accepted at Duke Math J., pending final revision,
 [arxiv](https://arxiv.org/abs/1510.08481)  
 
 + Large Deviations and Effective Equidistribution,

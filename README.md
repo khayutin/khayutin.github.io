@@ -25,7 +25,6 @@ _Ilya Khayutin_, 2018, Submitted,
 
 + Joint Equidistribution of CM Points,
 _Ilya Khayutin_, 2017, :page_with_curl: Accepted at Annals of Math.,
-[Site preprint](joint_equidistribution.pdf),
 [arxiv](https://arxiv.org/abs/1710.04557)  
 :movie_camera: Videos:
 [15min talk](https://video.ias.edu/postdoc/2017/0929-IlyaKhayutin),

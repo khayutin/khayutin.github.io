@@ -19,6 +19,7 @@ url: "https://khayutin.github.io"
 #  twitter: "chibicode"
 
 markdown: kramdown
+mathjax: true
 
 # Set default og:image
 # From Unsplash: https://unsplash.com/photos/1_CMoFsPfso

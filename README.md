@@ -16,8 +16,12 @@ In Fall 2018 I am teaching an [advanced class](https://registrar.princeton.edu/c
 
 ## Papers
 + Closed Geodesics on Products of Modular Curves,
-_Ilya Khayutin_, 2018, In preparation,
+_Ilya Khayutin_, 2019, In preparation,
 [tentative abstract](joint_geodesics_abstract.pdf)
+
++ Non-vanishing of Class Group $$L$$-functions for Number Fields with a Small Regulator,
+_Ilya Khayutin_, 2019,
+[preprint](non-vanishing.pdf)
 
 + Equidistribution on Kuga-Sato Varieties of Torsion Points on CM Elliptic Curves,
 _Ilya Khayutin_, 2018, Submitted,

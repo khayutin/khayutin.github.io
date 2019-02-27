@@ -12,7 +12,7 @@ understand equidistribution questions I am studying measure rigidity, arithmetic
 large deviations estimates.
 
 ## Teaching
-In Fall 2018 I am teaching an [advanced class](https://registrar.princeton.edu/course-offerings/course_details.xml?courseid=013461&term=1192) about Ratner's theorems and their applications in number theory.
+In Spring 2019 I am organizing one of Princeton's junior seminar.
 
 ## Papers
 + Closed Geodesics on Products of Modular Curves,
@@ -20,8 +20,8 @@ _Ilya Khayutin_, 2019, In preparation,
 [tentative abstract](joint_geodesics_abstract.pdf)
 
 + Non-vanishing of Class Group $$L$$-functions for Number Fields with a Small Regulator,
-_Ilya Khayutin_, 2019,
-[preprint](non-vanishing.pdf)
+_Ilya Khayutin_, 2019, Submitted,
+[arxiv](https://arxiv.org/abs/1901.06710)
 
 + Equidistribution on Kuga-Sato Varieties of Torsion Points on CM Elliptic Curves,
 _Ilya Khayutin_, 2018, Submitted,
@@ -35,7 +35,7 @@ _Ilya Khayutin_, 2017, :page_with_curl: [Annals of Math.](https://doi.org/10.400
 [1hr talk](https://video.ias.edu/file/45736)  
 
 + Arithmetic of Double Torus Quotients and the Distribution of Periodic Torus Orbits,
-_Ilya Khayutin_, 2015, :page_with_curl: Accepted at Duke Math J., pending final revision,
+_Ilya Khayutin_, 2015, :page_with_curl: Accepted at Duke Math J.,
 [arxiv](https://arxiv.org/abs/1510.08481)  
 
 + Large Deviations and Effective Equidistribution,

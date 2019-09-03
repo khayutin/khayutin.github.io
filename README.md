@@ -29,7 +29,7 @@ _Ilya Khayutin_, 2017, :page_with_curl: [Annals of Math.](https://doi.org/10.400
 [1hr talk](https://video.ias.edu/file/45736)  
 
 + Arithmetic of Double Torus Quotients and the Distribution of Periodic Torus Orbits,
-_Ilya Khayutin_, 2015, :page_with_curl: Accepted at Duke Math J.,
+_Ilya Khayutin_, 2015, :page_with_curl: [Duke Math J.](https://projecteuclid.org/euclid.dmj/1566612022),
 [arxiv](https://arxiv.org/abs/1510.08481)  
 
 + Large Deviations and Effective Equidistribution,

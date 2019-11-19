@@ -18,7 +18,7 @@ _Ilya Khayutin_, 2019, Submitted,
 [arxiv](https://arxiv.org/abs/1901.06710)
 
 + Equidistribution on Kuga-Sato Varieties of Torsion Points on CM Elliptic Curves,
-_Ilya Khayutin_, 2018, Submitted,
+_Ilya Khayutin_, 2018, :page_with_curl: accepted at the Journal of the EMS,
 [arxiv](https://arxiv.org/abs/1807.08817)  
 
 + Joint Equidistribution of CM Points,

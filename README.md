@@ -9,6 +9,9 @@ a Veblen Research Instructor at Princeton University and the Institute for Advan
 I work in number theory and homogeneous dynamics.
 
 ## Papers
++ Theta functions, fourth moments of eigenforms, and the sup-norm problem I,
+_Ilya Khayutin and Raphael S. Steiner_, 2020, preprint, [arxiv](https://arxiv.org/abs/2009.07194)
+
 + Closed Geodesics on Products of Modular Curves,
 _Ilya Khayutin_, 2019, In preparation,
 [tentative abstract](joint_geodesics_abstract.pdf)

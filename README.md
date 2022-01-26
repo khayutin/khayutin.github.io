@@ -11,12 +11,15 @@ My research is being supported by a Sloan Fellowship, an AMS Centennial Fellowsh
 I work in number theory and homogeneous dynamics.
 
 ## Papers
++ Theta functions, fourth moments of eigenforms, and the sup-norm problem I,
+_Ilya Khayutin and Raphael S. Steiner_, 2020, preprint, [arxiv](https://arxiv.org/abs/2009.07194)
+
 + Closed Geodesics on Products of Modular Curves,
 _Ilya Khayutin_, 2019, In preparation,
 [tentative abstract](joint_geodesics_abstract.pdf)
 
 + Non-vanishing of Class Group $$L$$-functions for Number Fields with a Small Regulator,
-_Ilya Khayutin_, 2019, Submitted,
+_Ilya Khayutin_, 2019, :page_with_curl: accepted at Compositio Math.,
 [arxiv](https://arxiv.org/abs/1901.06710)
 
 + Equidistribution on Kuga-Sato Varieties of Torsion Points on CM Elliptic Curves,

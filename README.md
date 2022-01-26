@@ -1,9 +1,11 @@
 {::options parse_block_html="true" /}
-![](image.jpg)
+[comment]: ![](image.jpg)
 
 ## About
 I am an Assistant Professor of Mathematics at Northwestern University since summer 2019. Before that I was a
 a Veblen Research Instructor at Princeton University and the Institute for Advanced Study since 2016.
+
+My research is being supported by a Sloan Fellowship, an AMS Centennial Fellowship, the NSF and the BSF.
 
 ## Research​
 I work in number theory and homogeneous dynamics.

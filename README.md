@@ -19,11 +19,11 @@ _Ilya Khayutin_, 2019, In preparation,
 [tentative abstract](joint_geodesics_abstract.pdf)
 
 + Non-vanishing of Class Group $$L$$-functions for Number Fields with a Small Regulator,
-_Ilya Khayutin_, 2019, :page_with_curl: accepted at Compositio Math.,
+_Ilya Khayutin_, 2019, :page_with_curl: [Compositio Math.](https://www.cambridge.org/core/journals/compositio-mathematica/article/nonvanishing-of-class-group-lfunctions-for-number-fields-with-a-small-regulator/D670228D1274561BB62404181BBA947D),
 [arxiv](https://arxiv.org/abs/1901.06710)
 
 + Equidistribution on Kuga-Sato Varieties of Torsion Points on CM Elliptic Curves,
-_Ilya Khayutin_, 2018, :page_with_curl: accepted at the Journal of the EMS,
+_Ilya Khayutin_, 2018, :page_with_curl: [Journal of the EMS](https://www.ems-ph.org/journals/of_article.php?jrn=jems&doi=1067),
 [arxiv](https://arxiv.org/abs/1807.08817)  
 
 + Joint Equidistribution of CM Points,

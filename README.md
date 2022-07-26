@@ -1,5 +1,4 @@
 {::options parse_block_html="true" /}
-![](image.jpg)
 
 ## About
 I am an Assistant Professor of Mathematics at Northwestern University since summer 2019. Before that I was a
@@ -9,6 +8,9 @@ a Veblen Research Instructor at Princeton University and the Institute for Advan
 I work in number theory and homogeneous dynamics.
 
 ## Papers
++ Theta functions, fourth moments of eigenforms, and the sup-norm problem II,
+_Ilya Khayutin, Paul D. Nelson and Raphael S. Steiner_, 2022, preprint, [arxiv](https://arxiv.org/abs/2207.12351)
+
 + Theta functions, fourth moments of eigenforms, and the sup-norm problem I,
 _Ilya Khayutin and Raphael S. Steiner_, 2020, preprint, [arxiv](https://arxiv.org/abs/2009.07194)
 

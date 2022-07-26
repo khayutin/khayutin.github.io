@@ -1,11 +1,12 @@
 {::options parse_block_html="true" /}
 
 ## About
-I am an Assistant Professor of Mathematics at Northwestern University since summer 2019. Before that I was a
+I am a mathematician working in number theory and homogeneous dynamics.
+Currently, I am an Assistant Professor of Mathematics at Northwestern University since summer 2019. Before that I was a
 a Veblen Research Instructor at Princeton University and the Institute for Advanced Study since 2016.
 
-## Research​
-I work in number theory and homogeneous dynamics.
+My research is being supported by a *Sloan Fellowship*, the *NSF* and the *BSF*. Previously, I have been supported by an *AMS Centennial Fellowship*.
+I am also a co-PI on the *NSF RTG* grant *Dynamics: Classical, Modern and Quantum*.
 
 ## Papers
 + Theta functions, fourth moments of eigenforms, and the sup-norm problem II,
@@ -19,11 +20,11 @@ _Ilya Khayutin_, 2019, In preparation,
 [tentative abstract](joint_geodesics_abstract.pdf)
 
 + Non-vanishing of Class Group $$L$$-functions for Number Fields with a Small Regulator,
-_Ilya Khayutin_, 2019, :page_with_curl: accepted at Compositio Math.,
+_Ilya Khayutin_, 2019, :page_with_curl: [Compositio Math.](https://www.cambridge.org/core/journals/compositio-mathematica/article/nonvanishing-of-class-group-lfunctions-for-number-fields-with-a-small-regulator/D670228D1274561BB62404181BBA947D),
 [arxiv](https://arxiv.org/abs/1901.06710)
 
 + Equidistribution on Kuga-Sato Varieties of Torsion Points on CM Elliptic Curves,
-_Ilya Khayutin_, 2018, :page_with_curl: accepted at the Journal of the EMS,
+_Ilya Khayutin_, 2018, :page_with_curl: [Journal of the EMS](https://www.ems-ph.org/journals/of_article.php?jrn=jems&doi=1067),
 [arxiv](https://arxiv.org/abs/1807.08817)  
 
 + Joint Equidistribution of CM Points,
